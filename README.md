@@ -1,6 +1,6 @@
 # Pretex
 
-A little compiler to an alternative version of LaTeX's mathematics to LaTeX
+A little compiler from an alternative version of LaTeX's mathematics to LaTeX
 
 ## Features
 
