@@ -11,6 +11,11 @@ A little compiler from an alternative version of LaTeX's mathematics to LaTeX
 * Expressions of kind `(` *code* `/` *code* `)` are converted to LaTeX
   fractions using the `\frac` command. The `/` can be escaped by typing `//`.
 
+### Example :
+    
+    > echo "(1/2)sin(2x) = cos(x)sin(x)" | ./pretex 
+    \frac{1}{2}\sin\left(2x\right) = \cos\left(x\right)\sin\left(x\right)
+
 ## Todo
 
 * A user-friendly wrapper
