@@ -1,0 +1,5 @@
+pretex
+*.o
+*.hi
+lexer.hs
+parser.hs
