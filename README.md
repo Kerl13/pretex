@@ -1,3 +1,7 @@
+
+**WARNING : developpement stopped, you should glance an eye at
+[AsciiMath](https://github.com/Kerl13/AsciiMath) instead ;)**
+
 # Pretex
 
 A little compiler from an alternative version of LaTeX's mathematics to LaTeX
